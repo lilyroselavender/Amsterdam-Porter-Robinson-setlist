@@ -9,3 +9,8 @@ Todo:
 - [ ] fix some stuff near the end
 - [ ] fix the notes
 - [ ] write down when supporting voices started singing
+
+Sources used:
+https://en.wikipedia.org/wiki/Porter_Robinson#Discography
+https://en.wikipedia.org/wiki/Porter_Robinson_discography
+https://porterrobinson.com/
